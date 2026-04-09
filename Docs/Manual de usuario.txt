@@ -1,0 +1,20 @@
+# Manual de Usuario
+
+## Descripción
+Sistema de inventario desarrollado en Java que permite gestionar productos mediante consola.
+
+## Cómo ejecutar
+1. Abrir NetBeans
+2. Ejecutar el proyecto
+3. Utilizar el menú en consola
+
+## Menú
+1. Registrar producto
+2. Listar productos
+3. Buscar producto
+4. Actualizar producto
+5. Eliminar producto
+6. Salir
+
+## Ejemplo de uso
+Registrar un producto con ID 1, nombre Laptop, cantidad 5 y precio 750.

@@ -1,0 +1,11 @@
+Prompt 1:
+"Desarrollar un sistema de inventario en Java usando arquitectura por capas y persistencia en archivos"
+
+Resultado:
+Se generó la estructura base del sistema con capas Entidad, DAO, Negocio y Presentación.
+
+Parte del sistema ayudada:
+Diseño de arquitectura y separación de responsabilidades.
+
+Mejora del prompt:
+Se refinó para incluir validaciones de entrada y manejo de excepciones.

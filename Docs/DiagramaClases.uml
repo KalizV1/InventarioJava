@@ -1,0 +1,36 @@
+@startuml
+
+package entidad {
+    class Producto {
+        -id : int
+        -nombre : String
+        -cantidad : int
+        -precio : double
+    }
+}
+
+package dao {
+    interface ProductoDAO {
+        +guardar()
+        +listar()
+        +buscarPorId()
+        +actualizar()
+        +eliminar()
+    }
+
+    class ProductoDAOImpl
+}
+
+package negocio {
+    class ProductoService
+}
+
+package presentacion {
+    class Main
+}
+
+ProductoDAOImpl ..|> ProductoDAO
+ProductoService --> ProductoDAO
+Main --> ProductoService
+
+@enduml
