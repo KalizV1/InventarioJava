@@ -34,4 +34,4 @@ ProductoService --> ProductoDAO
 Main --> ProductoService
 
 @enduml
-Diagrama de clases del sistema de inventario
+Diagrama sencillo de clases del sistema de inventario
