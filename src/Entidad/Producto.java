@@ -1,3 +1,4 @@
+// Clase entidad Producto
 package entidad;
 
 public class Producto {
