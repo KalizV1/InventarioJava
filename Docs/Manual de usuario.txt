@@ -18,3 +18,5 @@ Sistema de inventario desarrollado en Java que permite gestionar productos media
 
 ## Ejemplo de uso
 Registrar un producto con ID 1, nombre Laptop, cantidad 5 y precio 750.
+---
+Documento elaborado como parte del proyecto académico.

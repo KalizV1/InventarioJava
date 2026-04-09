@@ -12,3 +12,5 @@ El sistema sigue una arquitectura por capas: Entidad, DAO, Negocio y Presentaci�
 
 ## Flujo
 El usuario interactúa con Main, que llama a ProductoService, el cual utiliza ProductoDAO para acceso a datos.
+---
+Este manual describe la arquitectura y decisiones técnicas del sistema.
